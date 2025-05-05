@@ -34,5 +34,6 @@ namespace Quanlycafe
             manager.ShowDialog();
             this.Close();
         }
+
     }
 }

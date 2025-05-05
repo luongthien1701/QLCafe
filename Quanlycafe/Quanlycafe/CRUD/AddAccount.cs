@@ -36,7 +36,6 @@ namespace Quanlycafe.CRUD
                 };
                 AccountBLL accountBLL = new AccountBLL();
                 accountBLL.addAccount(account);
-                MessageBox.Show("Thêm tài khoản thành công");
                 this.Hide();
                 Manager manager = new Manager();
                 manager.reload_Account();

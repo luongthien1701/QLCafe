@@ -27,7 +27,7 @@ namespace Quanlycafe.BLL
         {
             _accountDAL.addAccount(account);
         }
-        public void updateAccount(Account account)
+        public void editAccount(Account account)
         {
             _accountDAL.editAccount(account);
         }

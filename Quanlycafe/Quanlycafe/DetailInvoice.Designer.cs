@@ -54,7 +54,7 @@
             this.dgv.Name = "dgv";
             this.dgv.RowHeadersWidth = 51;
             this.dgv.RowTemplate.Height = 24;
-            this.dgv.Size = new System.Drawing.Size(598, 150);
+            this.dgv.Size = new System.Drawing.Size(598, 208);
             this.dgv.TabIndex = 0;
             // 
             // Column1
@@ -109,11 +109,12 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(242, 323);
+            this.label4.Location = new System.Drawing.Point(231, 347);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(66, 16);
             this.label4.TabIndex = 4;
             this.label4.Text = "Tổng tiền:";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // txtDay
             // 
@@ -134,7 +135,7 @@
             // 
             // txtTotal
             // 
-            this.txtTotal.Location = new System.Drawing.Point(342, 320);
+            this.txtTotal.Location = new System.Drawing.Point(342, 347);
             this.txtTotal.Name = "txtTotal";
             this.txtTotal.ReadOnly = true;
             this.txtTotal.Size = new System.Drawing.Size(100, 22);

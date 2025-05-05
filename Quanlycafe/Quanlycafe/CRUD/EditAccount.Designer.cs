@@ -130,6 +130,7 @@
             this.txtUsername.Location = new System.Drawing.Point(294, 120);
             this.txtUsername.Multiline = true;
             this.txtUsername.Name = "txtUsername";
+            this.txtUsername.ReadOnly = true;
             this.txtUsername.Size = new System.Drawing.Size(188, 29);
             this.txtUsername.TabIndex = 31;
             // 

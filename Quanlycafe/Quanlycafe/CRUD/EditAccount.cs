@@ -37,8 +37,7 @@ namespace Quanlycafe.CRUD
                 Role = "user"
             };
             AccountBLL accountBLL = new AccountBLL();
-            accountBLL.updateAccount(account);
-            MessageBox.Show("Cập nhật tài khoản thành công");
+            accountBLL.editAccount(account);
             this.Hide();
             Manager manager = new Manager();
             manager.reload_Account();
