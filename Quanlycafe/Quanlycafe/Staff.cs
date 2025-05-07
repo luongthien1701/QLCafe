@@ -6,6 +6,7 @@ using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Windows.Forms;
+using static System.Net.WebRequestMethods;
 
 namespace Quanlycafe
 {
@@ -169,19 +170,19 @@ namespace Quanlycafe
                 MessageBox.Show("Vui lòng nhập bàn");
                 return;
             }
-            DateTime dt= DateTime.Now;
+            DateTime dt = DateTime.Now;
             func(dt);
-            string day=dt.Day.ToString()+"/"+dt.Month+"/"+dt.Year;
-            string time=dt.Hour+":"+dt.Minute+":"+dt.Second;
+            string day = dt.Day.ToString() + "/" + dt.Month + "/" + dt.Year;
+            string time = dt.Hour + ":" + dt.Minute + ":" + dt.Second;
             Invoice invoice = new Invoice
             {
-                Day=day,
-                Table=Convert.ToInt32(txt1.Text),
-                ToTal=Convert.ToInt32(lbCost.Text),
-                Time=time
+                Day = day,
+                Table = Convert.ToInt32(txt1.Text),
+                ToTal = Convert.ToInt32(lbCost.Text),
+                Time = time
             };
             _InvoiceBLL.addInvoice(invoice);
-            int id= _InvoiceBLL.getId_Invoice();
+            int id = _InvoiceBLL.getId_Invoice();
             foreach (DataGridViewRow row in dgv.Rows)
             {
                 if (row.IsNewRow) continue;
@@ -197,7 +198,7 @@ namespace Quanlycafe
                 };
                 _invoice_DetailBLL.add(invoice_Detail);
             }
-            SaveFileDialog saveFileDialog = new SaveFileDialog();
+            SaveFileDialog saveFileDialog = new SaveFileDialog{Filter = "Text Files (*.txt)|*.txt"};
             if (saveFileDialog.ShowDialog() == DialogResult.OK)
             {
                 productBLL.ExportInvoice(

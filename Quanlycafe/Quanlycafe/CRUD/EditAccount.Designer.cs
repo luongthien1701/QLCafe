@@ -150,6 +150,7 @@
             this.Controls.Add(this.txtPhone);
             this.Controls.Add(this.txtUsername);
             this.Name = "EditAccount";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "EditAccount";
             this.Load += new System.EventHandler(this.EditAccount_Load);
             this.ResumeLayout(false);

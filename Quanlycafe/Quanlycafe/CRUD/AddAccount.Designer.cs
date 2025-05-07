@@ -148,6 +148,7 @@
             this.Controls.Add(this.txtPhone);
             this.Controls.Add(this.txtUsername);
             this.Name = "AddAccount";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "AddAccount";
             this.ResumeLayout(false);
             this.PerformLayout();
