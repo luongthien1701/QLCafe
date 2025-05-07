@@ -206,7 +206,7 @@ namespace Quanlycafe
         {
             int table = (txtTable.Text == "" ? 0 : Convert.ToInt32(txtTable.Text));
             string day = "";
-            if (cbday.Text != "" || cbmonth.Text == "" || cbyear.Text == "")
+            if (cbday.Text != "" && cbmonth.Text != "" && cbyear.Text != "")
             {
                 day = cbday.Text + "/" + cbmonth.Text + "/" + cbyear.Text;
             }
@@ -215,7 +215,7 @@ namespace Quanlycafe
             List<Invoice> invoices = _invoiceBLL.getInvoice(table, day);
             foreach (var invoice in invoices)
             {
-                dgv4.Rows.Add(invoice.ID_Invoice, invoice.Day, invoice.Table, invoice.ToTal);
+                dgv4.Rows.Add(invoice.ID_Invoice, invoice.Day, invoice.Table, invoice.ToTal,invoice.Time);
             }
         }
         private void btnDetail_Click(object sender, EventArgs e)

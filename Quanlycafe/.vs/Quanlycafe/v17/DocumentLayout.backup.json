@@ -3,48 +3,64 @@
   "WorkspaceRootPath": "D:\\C#\\Project\\Quanlycafe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|d:\\c#\\project\\quanlycafe\\quanlycafe\\dal\\accountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|D:\\C#\\Project\\Quanlycafe\\quanlycafe\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|solutionrelative:quanlycafe\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|D:\\C#\\Project\\Quanlycafe\\quanlycafe\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|solutionrelative:quanlycafe\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|d:\\c#\\project\\quanlycafe\\quanlycafe\\dal\\invoicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|solutionrelative:quanlycafe\\dal\\invoicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|d:\\c#\\project\\quanlycafe\\quanlycafe\\bll\\invoicebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|solutionrelative:quanlycafe\\bll\\invoicebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|d:\\c#\\project\\quanlycafe\\quanlycafe\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|solutionrelative:quanlycafe\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|D:\\C#\\Project\\Quanlycafe\\quanlycafe\\dal\\accountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|solutionrelative:quanlycafe\\dal\\accountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|d:\\c#\\project\\quanlycafe\\quanlycafe\\bll\\accountbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|d:\\c#\\project\\quanlycafe\\quanlycafe\\detailinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|solutionrelative:quanlycafe\\detailinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|D:\\C#\\Project\\Quanlycafe\\quanlycafe\\detailinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|solutionrelative:quanlycafe\\detailinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|D:\\C#\\Project\\Quanlycafe\\quanlycafe\\bll\\accountbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|solutionrelative:quanlycafe\\bll\\accountbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|d:\\c#\\project\\quanlycafe\\quanlycafe\\crud\\editaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|D:\\C#\\Project\\Quanlycafe\\quanlycafe\\crud\\editaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|solutionrelative:quanlycafe\\crud\\editaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|d:\\c#\\project\\quanlycafe\\quanlycafe\\crud\\addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|D:\\C#\\Project\\Quanlycafe\\quanlycafe\\crud\\addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|solutionrelative:quanlycafe\\crud\\addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|d:\\c#\\project\\quanlycafe\\quanlycafe\\crud\\addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|D:\\C#\\Project\\Quanlycafe\\quanlycafe\\crud\\addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|solutionrelative:quanlycafe\\crud\\addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|d:\\c#\\project\\quanlycafe\\quanlycafe\\crud\\editaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|D:\\C#\\Project\\Quanlycafe\\quanlycafe\\crud\\editaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|solutionrelative:quanlycafe\\crud\\editaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|D:\\C#\\Project\\Quanlycafe\\quanlycafe\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|solutionrelative:quanlycafe\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|D:\\C#\\Project\\Quanlycafe\\quanlycafe\\manager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|solutionrelative:quanlycafe\\manager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|D:\\C#\\Project\\Quanlycafe\\quanlycafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|solutionrelative:quanlycafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|d:\\c#\\project\\quanlycafe\\quanlycafe\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|D:\\C#\\Project\\Quanlycafe\\quanlycafe\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|solutionrelative:quanlycafe\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|D:\\C#\\Project\\Quanlycafe\\quanlycafe\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DE14908A-B534-4AE2-A848-8A7C209AF3A5}|Quanlycafe\\Quanlycafe.csproj|solutionrelative:quanlycafe\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +82,105 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceDAL.cs",
+              "DocumentMoniker": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\DAL\\InvoiceDAL.cs",
+              "RelativeDocumentMoniker": "Quanlycafe\\DAL\\InvoiceDAL.cs",
+              "ToolTip": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\DAL\\InvoiceDAL.cs",
+              "RelativeToolTip": "Quanlycafe\\DAL\\InvoiceDAL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:17:57.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoiceBLL.cs",
+              "DocumentMoniker": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\BLL\\InvoiceBLL.cs",
+              "RelativeDocumentMoniker": "Quanlycafe\\BLL\\InvoiceBLL.cs",
+              "ToolTip": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\BLL\\InvoiceBLL.cs",
+              "RelativeToolTip": "Quanlycafe\\BLL\\InvoiceBLL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:17:49.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\Manager.cs",
+              "RelativeDocumentMoniker": "Quanlycafe\\Manager.cs",
+              "ToolTip": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\Manager.cs [Design]",
+              "RelativeToolTip": "Quanlycafe\\Manager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:05:21.625Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Staff.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\Staff.cs",
+              "RelativeDocumentMoniker": "Quanlycafe\\Staff.cs",
+              "ToolTip": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\Staff.cs [Design]",
+              "RelativeToolTip": "Quanlycafe\\Staff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:05:50.809Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\Manager.cs",
+              "RelativeDocumentMoniker": "Quanlycafe\\Manager.cs",
+              "ToolTip": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\Manager.cs",
+              "RelativeToolTip": "Quanlycafe\\Manager.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAWwNkAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:05:42.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetailInvoice.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\DetailInvoice.cs",
+              "RelativeDocumentMoniker": "Quanlycafe\\DetailInvoice.cs",
+              "ToolTip": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\DetailInvoice.cs [Design]",
+              "RelativeToolTip": "Quanlycafe\\DetailInvoice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:47:49.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountDAL.cs",
+              "DocumentMoniker": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\DAL\\AccountDAL.cs",
+              "RelativeDocumentMoniker": "Quanlycafe\\DAL\\AccountDAL.cs",
+              "ToolTip": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\DAL\\AccountDAL.cs",
+              "RelativeToolTip": "Quanlycafe\\DAL\\AccountDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:08:38.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddAccount.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\CRUD\\AddAccount.cs",
+              "RelativeDocumentMoniker": "Quanlycafe\\CRUD\\AddAccount.cs",
+              "ToolTip": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\CRUD\\AddAccount.cs [Design]",
+              "RelativeToolTip": "Quanlycafe\\CRUD\\AddAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:31:06.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "AddAccount.cs",
               "DocumentMoniker": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\CRUD\\AddAccount.cs",
               "RelativeDocumentMoniker": "Quanlycafe\\CRUD\\AddAccount.cs",
@@ -74,36 +188,35 @@
               "RelativeToolTip": "Quanlycafe\\CRUD\\AddAccount.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T10:31:08.792Z",
+              "WhenOpened": "2025-05-05T10:31:08.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetailInvoice.cs",
+              "DocumentMoniker": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\DetailInvoice.cs",
+              "RelativeDocumentMoniker": "Quanlycafe\\DetailInvoice.cs",
+              "ToolTip": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\DetailInvoice.cs",
+              "RelativeToolTip": "Quanlycafe\\DetailInvoice.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:47:52.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddAccount.cs [Design]",
-              "DocumentMoniker": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\CRUD\\AddAccount.cs",
-              "RelativeDocumentMoniker": "Quanlycafe\\CRUD\\AddAccount.cs",
-              "ToolTip": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\CRUD\\AddAccount.cs [Design]",
-              "RelativeToolTip": "Quanlycafe\\CRUD\\AddAccount.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T10:31:06.629Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "EditAccount.cs [Design]",
               "DocumentMoniker": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\CRUD\\EditAccount.cs",
               "RelativeDocumentMoniker": "Quanlycafe\\CRUD\\EditAccount.cs",
               "ToolTip": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\CRUD\\EditAccount.cs [Design]",
               "RelativeToolTip": "Quanlycafe\\CRUD\\EditAccount.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T10:27:32.579Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-05T10:27:32.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "AccountBLL.cs",
               "DocumentMoniker": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\BLL\\AccountBLL.cs",
               "RelativeDocumentMoniker": "Quanlycafe\\BLL\\AccountBLL.cs",
@@ -111,25 +224,11 @@
               "RelativeToolTip": "Quanlycafe\\BLL\\AccountBLL.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T10:21:59.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T10:21:59.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountDAL.cs",
-              "DocumentMoniker": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\DAL\\AccountDAL.cs",
-              "RelativeDocumentMoniker": "Quanlycafe\\DAL\\AccountDAL.cs",
-              "ToolTip": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\DAL\\AccountDAL.cs",
-              "RelativeToolTip": "Quanlycafe\\DAL\\AccountDAL.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAqwB8AAAB0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T10:08:38.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "EditAccount.cs",
               "DocumentMoniker": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\CRUD\\EditAccount.cs",
               "RelativeDocumentMoniker": "Quanlycafe\\CRUD\\EditAccount.cs",
@@ -137,12 +236,11 @@
               "RelativeToolTip": "Quanlycafe\\CRUD\\EditAccount.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAywBIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T10:13:06.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T10:13:06.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "App.config",
               "DocumentMoniker": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\App.config",
               "RelativeDocumentMoniker": "Quanlycafe\\App.config",
@@ -155,20 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\Program.cs",
-              "RelativeDocumentMoniker": "Quanlycafe\\Program.cs",
-              "ToolTip": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\Program.cs",
-              "RelativeToolTip": "Quanlycafe\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T15:10:00.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Manager.Designer.cs",
               "DocumentMoniker": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\Manager.Designer.cs",
               "RelativeDocumentMoniker": "Quanlycafe\\Manager.Designer.cs",
@@ -178,31 +263,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T15:09:01.313Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Manager.cs",
-              "DocumentMoniker": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\Manager.cs",
-              "RelativeDocumentMoniker": "Quanlycafe\\Manager.cs",
-              "ToolTip": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\Manager.cs",
-              "RelativeToolTip": "Quanlycafe\\Manager.cs",
-              "ViewState": "AgIAAL0AAAAAAAAAAAAWwPAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T15:05:42.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Manager.cs [Design]",
-              "DocumentMoniker": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\Manager.cs",
-              "RelativeDocumentMoniker": "Quanlycafe\\Manager.cs",
-              "ToolTip": "D:\\C#\\Project\\Quanlycafe\\Quanlycafe\\Manager.cs [Design]",
-              "RelativeToolTip": "Quanlycafe\\Manager.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T15:05:21.625Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

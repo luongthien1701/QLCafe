@@ -21,11 +21,11 @@ namespace Quanlycafe.DAL
         {
             using (var db = new MyDbContext())
             {
-                if (table == 0)
+                if (table == 0 && day!="")
                 {
                     return db.Invoice.Where(p => p.Day == day).ToList();
                 }
-                else if (day == "")
+                else if (table!=0 && day == "")
                 {
                     return db.Invoice.Where(p => p.Table == table).ToList();
                 }
