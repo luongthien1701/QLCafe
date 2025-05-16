@@ -32,7 +32,7 @@ namespace Quanlycafe.CRUD
                     Password = txtPassword.Text,
                     Name = txtName.Text,
                     Phone = txtPhone.Text,
-                    Role = "user"
+                    Role = "staff"
                 };
                 AccountBLL accountBLL = new AccountBLL();
                 accountBLL.addAccount(account);

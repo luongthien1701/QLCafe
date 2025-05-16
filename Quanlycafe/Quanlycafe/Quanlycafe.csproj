@@ -229,6 +229,7 @@
     <Content Include="bin\Debug\x86\sqlceme40.dll" />
     <Content Include="bin\Debug\x86\sqlceqp40.dll" />
     <Content Include="bin\Debug\x86\sqlcese40.dll" />
+    <Content Include="data.sql" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="bin\Release\" />

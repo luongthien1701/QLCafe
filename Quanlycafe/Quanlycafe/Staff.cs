@@ -155,9 +155,9 @@ namespace Quanlycafe
         private void newToolStripMenuItem_Click(object sender, EventArgs e)
         {
             dgv.Rows.Clear();
-            lbCost.Text = "";
-            lbVAT.Text = "";
-            lbTotal.Text = "";
+            lbCost.Text = "0";
+            lbVAT.Text = "0";
+            lbTotal.Text = "0";
             txt1.Text = "";
             string typeName = tabControl.SelectedTab.Text;
             LoadProducts(typeName, tabControl.SelectedTab);
@@ -168,6 +168,11 @@ namespace Quanlycafe
             if (txt1.Text == "")
             {
                 MessageBox.Show("Vui lòng nhập bàn");
+                return;
+            }
+            if (lbCost.Text == "0") 
+            {
+                MessageBox.Show("Hóa đơn rỗng");
                 return;
             }
             DateTime dt = DateTime.Now;
@@ -227,6 +232,11 @@ namespace Quanlycafe
             Home home = new Home();
             home.ShowDialog();
             this.Close();
+        }
+
+        private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

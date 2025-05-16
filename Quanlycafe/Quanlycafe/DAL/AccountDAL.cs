@@ -15,6 +15,7 @@ namespace Quanlycafe.DAL
 
             using (var context = new MyDbContext())
             {
+                pass = mahoa(pass);
                 return context.Account.FirstOrDefault(p => p.Username == user && p.Password == pass);
             }
         }
@@ -22,7 +23,12 @@ namespace Quanlycafe.DAL
         {
             using (var context = new MyDbContext())
             {
-                return context.Account.ToList();
+                List<Account> list = context.Account.ToList();
+                foreach (var item in list)
+                {
+                    item.Password = giaiMa(item.Password);
+                }
+                return list;
             }
         }
         public void addAccount(Account account)
@@ -36,11 +42,22 @@ namespace Quanlycafe.DAL
                 }
                 else
                 {
+                    account.Password = mahoa(account.Password);
                     context.Account.Add(account);
                     context.SaveChanges();
                     MessageBox.Show("Thêm tài khoản thành công");
                 }
             }
+        }
+        public static string mahoa(string pass)
+        {
+            byte[] bytes = Encoding.UTF8.GetBytes(pass);
+            return Convert.ToBase64String(bytes);
+        }
+        public static string giaiMa(string pass)
+        {
+            byte[] bytes = Convert.FromBase64String(pass);
+            return Encoding.UTF8.GetString(bytes);
         }
         public void editAccount(Account account)
         {
